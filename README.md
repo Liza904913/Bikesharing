@@ -1,8 +1,8 @@
 # Bikesharing
 
-## Purpose of Amalysis
+## Purpose of Analysis
 
-This project is an analysis of New York Citi Bike data, using data visualization tools. We have to create a set of visualizations to show the length of time that bikes are checked out for all riders and genders, show the number of bike trips for all riders and genders for each hour of each day of the week, show the number of bike trips for each type of user and gender for each day of the week.
+This project is an analysis of New York Citi Sharing Bike data. We are creating a set of visualizations to show the length of time that bikes are checked out for all riders and genders, show the number of bike trips for all riders and genders for each hour of each day of the week, and show the number of bike trips for each type of user and gender for each day of the week.
 
 ## Results 
 
@@ -48,9 +48,7 @@ Tableau NYC City Bike story link:
 
 ## Summary:
 
-The data shows the activity of the bike sharing service in New York during the month of August 2019.
-The far majority of the rides were  taken by male users during morning and evening and weekends. 
-
+The data shows the activity of the bike sharing service in New York during the month of August 2019. The far majority of the rides were taken by male users during morning, evening, and weekends. 
 Additional visualizations are suggested for future analysis:
 - Compare data with different months of the year to see how different weather affect the bike use.
 -  Average distance for trip. 

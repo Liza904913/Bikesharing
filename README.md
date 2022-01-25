@@ -4,6 +4,12 @@
 
 This project is an analysis of New York Citi Sharing Bike data. We are creating a set of visualizations to show the length of time that bikes are checked out for all riders and genders, show the number of bike trips for all riders and genders for each hour of each day of the week, and show the number of bike trips for each type of user and gender for each day of the week.
 
+## Resources:
+
+Data Source: Citi Bike Data, 201908-citibike-tripdata.csv.zip
+Software: Python 3.7.7, Anaconda Navigator 1.9.12, Conda 4.8.4, Jupyter Notebook 6.0.3, Tableau Public 2020.3.2
+
+
 ## Results 
 
 Tableau NYC City Bike story link:
